@@ -1,0 +1,25 @@
+#mainButton {
+  padding: 20px;
+  margin-left: 45%;
+  background: black;
+  color: white;
+  border: none;
+  transition: 1.5s;
+  margin-bottom: 30px;
+}
+
+#mainButton:hover {
+  background: aqua;
+  color: white;
+}
+button {
+  background: rgb(51, 51, 199);
+  padding: 20px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  border: none;
+  color: white;
+}
+#buttonContainer {
+  align-items: center;
+}
